@@ -1,17 +1,12 @@
-.topContainer{
-  background-color: #ddf3f5;
-  position: relative;
-  padding-top:  150px;
-  height: auto;
-  padding-bottom: 0;
-  margin-bottom: 50px;
-}
-.middle-container{
-  margin-bottom: 50px;
-}
-.bottom-container{
-  background-color: #66BFBF;
-  padding: 30px;
+hr {
+
+  border-style : dotted none none none;
+  border-width: 7px;
+  border-color: #40514E;
+
+  width: 5%;
+  margin-top: 30px;
+  margin-bottom: 30px;
 
 }
 h1{
@@ -42,6 +37,28 @@ body{
   font-family: 'Merriweather', serif;
   color: #40514E;
 }
+span{
+  font-size: 3vw;
+}
+a{
+  color: #11999E;
+}
+.topContainer{
+  background-color: #ddf3f5;
+  position: relative;
+  padding-top:  150px;
+  height: auto;
+  padding-bottom: 0;
+  margin-bottom: 50px;
+}
+.middle-container{
+  margin-bottom: 50px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 30px;
+
+}
 
 .web{
   font-size: 30px;
@@ -66,12 +83,6 @@ body{
   opacity: 0.5;
 
 }
-span{
-  font-size: 3vw;
-}
-a{
-  color: #11999E;
-}
 .mountain{
 margin: auto;
 opacity: 0.8;
@@ -80,7 +91,9 @@ height: auto;
 }
 .subhead{
   position: relative;
-  bottom: 30px;
+  bottom: 20px;
+
+
 }
 .skill-row{
   width: 50%;
@@ -108,17 +121,7 @@ height: auto;
 
 }
 
-hr {
 
-  border-style : dotted none none none;
-  border-width: 7px;
-  border-color: #40514E;
-
-  width: 5%;
-  margin-top: 30px;
-  margin-bottom: 30px;
-
-}
 .myButton {
 
   margin-top: 30px;
