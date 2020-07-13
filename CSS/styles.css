@@ -60,9 +60,6 @@ a{
 
 }
 
-.web{
-  font-size: 30px;
-
 }
 .bottom-cloud{
   position: absolute;
@@ -92,6 +89,7 @@ height: auto;
 .subhead{
   position: relative;
   bottom: 20px;
+  font-size: 2vw;
 
 
 }
